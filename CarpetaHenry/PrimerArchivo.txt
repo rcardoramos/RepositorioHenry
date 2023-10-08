@@ -11,3 +11,5 @@ Popularidad 🏆
 JavaScript está en todos lados y se espera que su popularidad siga en alza. Si navegas por recursos y plataformas tales como StackOverflow y GitHub verás la cantidad de proyectos desarrollados en base a este lenguaje. Es más, con la llegada de Node.js, se ha incrementado su uso en el back-end y por lo tanto incorporado cada vez con más frecuencia en los tech stack de todo tipo de startups y compañías. 
 
 Día 24/ Actualización de commit, recordatorio
+
+día 07/19 practicando commit 
